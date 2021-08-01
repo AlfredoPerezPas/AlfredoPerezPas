@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello, my name is Alfredo Perez Pastor, welcome to my personal repository.
+In this repository you will find mainly medium and small examples, each one focused on something specific.
 
 <!--
 **AlfredoPerezPas/AlfredoPerezPas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
